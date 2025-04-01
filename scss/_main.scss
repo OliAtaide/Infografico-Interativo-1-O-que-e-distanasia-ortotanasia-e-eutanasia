@@ -1,0 +1,39 @@
+#list {
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    .btn {
+        width: 100%;
+        font-size: 26px;
+        color: var(--primary-dark) !important;
+        padding: 16px;
+        border: 1px solid var(--primary-dark);
+        border-radius: 8px;
+
+        &:hover {
+            background-color: var(--primary);
+        }
+
+        &:active{
+            background-color: var(--primary-dark);
+            color: white !important;
+        }
+    }
+
+    .card {
+        background-color: var(--primary);
+        .card-body {
+            padding: 16px;
+        }
+    }
+}
+
+.card {
+    border-color: var(--primary-dark);
+    border-radius: 8px;
+}
+
+ul{
+    margin: 0;
+}
