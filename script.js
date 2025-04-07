@@ -9,7 +9,7 @@ list = [
     list: [
       "Eutanásia ativa voluntária: é feita pela administração de medicamentos ou realização de algum procedimento com o intuito de levar o paciente à morte, após o seu consentimento;",
       "Suicídio assistido: é o ato realizado quando o médico fornece medicamentos para que o próprio paciente possa abreviar a vida;",
-      "Eutanásia ativa involuntária: é a administração de medicamentos ou realização de procedimentos para levar o paciente à morte, em situação na qual o paciente não consentiu previamente. Esta prática é ilegal em todos os países.",
+      "Eutanásia ativa involuntária: é a administração de medicamentos ou realização de procedimentos para levar o paciente à morte, em situação na qual o paciente não consentiu previamente. Essa prática é ilegal em todos os países.",
     ],
   },
   {
